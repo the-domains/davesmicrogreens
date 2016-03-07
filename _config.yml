@@ -1,7 +1,7 @@
 name: Davesmicrogreens
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.09291081
+typography_spectrum: 0.07823
 collections:
   - index:
       path: /
