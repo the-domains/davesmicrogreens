@@ -1,4 +1,4 @@
-name: Davesmicrogreens
+name: "Dave's Microgreens"
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.09291081
@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: "Dave's Microgreens"
+title: Daves Microgreens
 cta:
   domain: null
   bucket: null
