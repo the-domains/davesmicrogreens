@@ -1,41 +1,41 @@
-name: Davesmicrogreens
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.07823
+title: "Dave's Microgreens"
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: "Dave's Microgreens"
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 1
+  brandStrength: 0.7094522
+  lightness: 0.6875
+  brandColors:
+    - '#050605'
+    - '#C4BEBE'
+    - '#1FC4BE'
+    - '#91BD4B'
+    - '#FAFC65'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Davesmicrogreens
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.07823
+layout_spectrum: 1
