@@ -13,7 +13,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0.9242749
   brandStrength: 0.7094522
   lightness: 0.6875
   brandColors:
@@ -37,5 +37,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.07823
+typography_spectrum: 0.1004296
 layout_spectrum: 1
