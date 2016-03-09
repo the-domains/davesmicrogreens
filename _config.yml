@@ -34,8 +34,8 @@ color:
     - '#1FC4BE'
     - '#91BD4B'
     - '#FAFC65'
-  brandStrength: 0.5625
-  lightness: 0.8125
-  saturation: 0.375
-  rhythmicContrast: 1
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
