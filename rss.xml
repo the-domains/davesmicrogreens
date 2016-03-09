@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dave's Microgreens]]></title>
+        <description><![CDATA[Dave's Microgreens]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 22:12:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEW CROPS]]></title>
+            <description><![CDATA[<article><h1>NEW CROPS</h1><p>Since the weather is getting warmer im going to start a new crop soon!</p></article>]]></description>
+            <link>undefinednew-crops/index.html</link>
+            <guid isPermaLink="false">cee8d8df-028f-4ef2-b204-cccc8b72b81a</guid>
+            <pubDate>Wed, 09 Mar 2016 21:37:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
